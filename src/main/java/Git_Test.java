@@ -13,5 +13,6 @@ public class Git_Test {
         System.out.println("first_________");
         System.out.println("first222222222");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
