@@ -12,5 +12,6 @@ public class Git_Test {
         System.out.println("master-------1");
         System.out.println("first_________");
         System.out.println("first222222222");
+        System.out.println("push");
     }
 }
