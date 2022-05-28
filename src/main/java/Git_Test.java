@@ -8,8 +8,8 @@
  */
 public class Git_Test {
     public static void main(String[] args){
-        System.out.println("Test_Git");
+        System.out.println("master");
 
-        System.out.println("");
+        System.out.println("first_________");
     }
 }
